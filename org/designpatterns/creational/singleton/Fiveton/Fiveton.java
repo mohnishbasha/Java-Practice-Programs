@@ -1,9 +1,12 @@
 public class Fiveton
 {
     private static final Fiveton[] instances = new Fiveton[5];
+
     private static int index = 0;
  
-    private Fiveton() {}
+    private Fiveton() {
+
+    }
  
     // not thread-safe
     public static Fiveton getInstance()
