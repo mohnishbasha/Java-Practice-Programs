@@ -30,13 +30,13 @@ public class ArraySumUsingSet {
     /**
      * Given an array of integers finds two elements in the array whose sum is equal to n. * @param numbers * @param n
      */
-    public static void printPairsUsingSet(int[] numbers, int n) {
+    public static void printPairsUsingSet(int[] numbers, int sum) {
         if (numbers.length < 2) {
             return;
         }
         Set set = new HashSet(numbers.length);
         for (int value : numbers) {
-            int target = n - value;
+            int target = sum - value;
 
 
             // if target number is not in set then add
