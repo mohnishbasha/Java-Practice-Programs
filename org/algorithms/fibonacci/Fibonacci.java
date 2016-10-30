@@ -3,6 +3,9 @@ package org.algorithms;
  * This program prints out the first 20 numbers in the Fibonacci sequence. Each
  * term is formed by adding together the previous two terms in the sequence,
  * starting with the terms 1 and 1.
+ *
+ * Refer:
+ * http://www.geeksforgeeks.org/dynamic-programming-set-1/
  */
 public class Fibonacci {
   public static void main(String[] args) {
