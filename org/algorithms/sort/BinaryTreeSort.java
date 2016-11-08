@@ -13,6 +13,7 @@ package org.algorithms.sort;
  approach is used for inserting the new element in the tree instead of iterative approach.
  *
  * Average performance	O(n log n)
+ * http://suresolution.blogspot.com/2012/07/tree-sort-binary-search-tree.html
  */
 
 
