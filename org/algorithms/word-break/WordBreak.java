@@ -1,5 +1,8 @@
 /*
 
+Reading also on:
+http://www.geeksforgeeks.org/dynamic-programming-set-32-word-break-problem/
+
 http://thenoisychannel.com/2011/08/08/retiring-a-great-interview-problem
 
 Questions:
