@@ -4,9 +4,9 @@
  *
  */
 
-*/
 
-class FindTriplet
+
+class FindTripletUsingPointer
 {
 
     // returns true if there is triplet with sum equal

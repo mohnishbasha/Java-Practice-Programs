@@ -131,7 +131,7 @@ class Trie {
 }
 
 // Testing class
-public class Test {
+public class LongestCommonPrefixTree {
     public static void main(String[] args) {
         Trie dict = new Trie();
         dict.insert("are");

@@ -44,11 +44,11 @@ Finding the permutations with recursion
 
  */
 
-public class Anagram {
+public class Anagram1 {
 
     public static char[] charArray;
 
-    public Anagram(String word) {
+    public Anagram1(String word) {
         charArray = word.toCharArray();
         doAnagram(charArray.length);
     }
@@ -87,7 +87,7 @@ public class Anagram {
     }
 
     public static void main(String args[]) {
-        Anagram test1 = new Anagram("Love");
+        Anagram1 test1 = new Anagram1("Love");
 
 
 

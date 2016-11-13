@@ -21,7 +21,7 @@ Read more:http://javarevisited.blogspot.com/2014/08/how-to-find-all-pairs-in-arr
 /**
  * Java Program to find two elements in an array that sum to k. * * @author WINDOWS 8
  */
-public class ArraySumUsingSet {
+public class PrintPairsUsingSet {
     public static void main(String args[]) {
         prettyPrint(getRandomArray(9), 11);
         prettyPrint(getRandomArray(10), 12);

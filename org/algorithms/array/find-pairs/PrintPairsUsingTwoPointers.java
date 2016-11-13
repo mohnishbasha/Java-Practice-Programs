@@ -27,7 +27,7 @@ All pairs in an array of integers whose sum is equal to a given value 9
  * Java Program to find all pairs on integer array whose sum is equal to k * * @author WINDOWS 7
  */
 
-public class PrintArrayPairs {
+public class PrintPairsUsingTwoPointers {
     public static void main(String args[]) {
         prettyPrint(new int[]{12, 14, 17, 15, 19, 20, -11}, 9);
         prettyPrint(new int[]{2, 4, 7, 5, 9, 10, -1}, 9);
